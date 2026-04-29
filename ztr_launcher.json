@@ -2,40 +2,37 @@
   "launcherVersion": "1.0.0",
   "launcherUpdateUrl": "https://ztrcompany1.github.io/SITE-MENSAGEM-NO-JOGO-RACE-LOW-POLY/ZTRCompanyLauncher.exe",
   "launcherSha256": "",
+  "launcherHeartbeatUrl": "https://SEU-SERVIDOR.com/heartbeat/launcher",
+  "gameHeartbeatUrl": "https://SEU-SERVIDOR.com/heartbeat/game",
   "news": [
     {
       "type": "aviso",
-      "title": "Bem-vindo ao ZTR Company Launcher",
-      "message": "Agora o launcher tem perfil, eventos, servidores e notificações.",
-      "url": "https://ztrcompany1.github.io/SITE-MENSAGEM-NO-JOGO-RACE-LOW-POLY/"
+      "title": "Bem-vindo ao ZTR Launcher",
+      "message": "Conta obrigatória, perfil, servidores e heartbeat ativados.",
+      "url": ""
     }
   ],
   "events": [
     {
       "title": "Evento de corrida",
-      "message": "Evento especial de Race Low Poly começa hoje!",
+      "message": "Evento especial começa hoje!",
       "active": true
-    },
-    {
-      "title": "Manutenção programada",
-      "message": "Servidor poderá ficar instável às 20:00.",
-      "active": false
     }
   ],
   "servers": [
     {
-      "name": "Race Low Poly - Principal",
+      "name": "ZTR Launcher",
       "online": true,
-      "pingMs": 38,
-      "playersOnline": 12,
-      "maxPlayers": 50
-    },
-    {
-      "name": "ZTR API",
-      "online": true,
-      "pingMs": 21,
+      "pingMs": 20,
       "playersOnline": 0,
       "maxPlayers": 0
+    },
+    {
+      "name": "Race Low Poly",
+      "online": true,
+      "pingMs": 35,
+      "playersOnline": 0,
+      "maxPlayers": 50
     }
   ],
   "games": [
@@ -49,7 +46,7 @@
       "versionFileName": "game_version.txt",
       "iconUrl": "https://ztrcompany1.github.io/SITE-MENSAGEM-NO-JOGO-RACE-LOW-POLY/icone.png",
       "bannerUrl": "https://ztrcompany1.github.io/SITE-MENSAGEM-NO-JOGO-RACE-LOW-POLY/banner.png",
-      "changelog": "Versão 0.008 disponível.\\n- Perfil ZTR\\n- Eventos\\n- Servidores\\n- Notificações\\n- Auto-update seguro do launcher",
+      "changelog": "Conta obrigatória e tempo real de jogo.",
       "maintenance": false,
       "forceUpdate": true
     }
