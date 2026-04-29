@@ -5,22 +5,22 @@
     {
       "type": "aviso",
       "title": "Bem-vindo ao ZTR Company Launcher",
-      "message": "Agora todos os jogos da ZTR Company ficam em uma biblioteca única.",
-      "url": "anda"
+      "message": "Launcher profissional da ZTR Company com biblioteca de jogos, atualizações, manutenção, reparo e notícias.",
+      "url": "https://ztrcompany1.github.io/SITE-MENSAGEM-NO-JOGO-RACE-LOW-POLY/"
     }
   ],
   "games": [
     {
       "id": "race-low-poly",
       "name": "Race Low Poly",
-      "version": "0.006",
-      "exeName": "Race Low Poly.exe",
+      "version": "0.008",
+      "exeName": "RaceLowPoly.exe",
       "downloadUrl": "https://ztrcompany1.github.io/SITE-MENSAGEM-NO-JOGO-RACE-LOW-POLY/V0.006(DEV).zip",
       "sha256": "",
       "versionFileName": "game_version.txt",
       "iconUrl": "https://ztrcompany1.github.io/SITE-MENSAGEM-NO-JOGO-RACE-LOW-POLY/icone.png",
       "bannerUrl": "https://ztrcompany1.github.io/SITE-MENSAGEM-NO-JOGO-RACE-LOW-POLY/banner.png",
-      "changelog": "Versão 0.008 disponível.\n- Visual profissional\n- Tela de carregamento\n- Biblioteca estilo Steam\n- Imagem e ícone por jogo",
+      "changelog": "Versão 0.008 disponível.\\n- Launcher estilo Steam\\n- Visual profissional\\n- Splash animado\\n- Banner sem esticar\\n- Layout responsivo",
       "maintenance": false,
       "forceUpdate": true
     }
