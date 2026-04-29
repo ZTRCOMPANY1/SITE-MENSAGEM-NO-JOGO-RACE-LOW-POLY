@@ -1,7 +1,8 @@
 {
-  "version": "1.0",
+  "version": "0.006",
   "gameName": "Race Low Poly",
   "exeName": "Race Low Poly.exe",
-  "downloadUrl": "https://ztrcompany1.github.io/SITE-MENSAGEM-NO-JOGO-RACE-LOW-POLY/V0.005(DEV)1.zip",
-  "changelog": "Primeira versão do launcher."
+  "downloadUrl": "https://ztrcompany1.github.io/SITE-MENSAGEM-NO-JOGO-RACE-LOW-POLY/V0.006(DEV).zip",
+  "versionFileName": "game_version.txt",
+  "changelog": "Versão 0.007 disponível.\n- Nova atualização\n- Melhorias no launcher\n- Correções gerais"
 }
