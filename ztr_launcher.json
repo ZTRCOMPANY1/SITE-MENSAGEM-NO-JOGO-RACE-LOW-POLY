@@ -48,7 +48,7 @@
       "iconUrl": "https://ztrcompany1.github.io/SITE-MENSAGEM-NO-JOGO-RACE-LOW-POLY/icone.png",
       "bannerUrl": "https://ztrcompany1.github.io/SITE-MENSAGEM-NO-JOGO-RACE-LOW-POLY/banner.png",
       "changelog": "Conta obrigatória e tempo real de jogo.",
-      "maintenance": true,
+      "maintenance": false,
       "forceUpdate": true
     }
   ],
