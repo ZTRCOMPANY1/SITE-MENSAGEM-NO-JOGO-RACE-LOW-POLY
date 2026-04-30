@@ -9,7 +9,7 @@
     {
       "type": "aviso",
       "title": "Bem-vindo ao ZTR Launcher",
-      "message": "Conta obrigatória, perfil, servidores e heartbeat ativados.",
+      "message": "Conta obrigatória, perfil, servidores e ativados.",
       "url": ""
     }
   ],
@@ -17,7 +17,7 @@
     {
       "title": "Evento de corrida",
       "message": "Evento especial começa hoje!",
-      "active": true
+      "active": false
     }
   ],
   "servers": [
@@ -48,7 +48,7 @@
       "iconUrl": "https://ztrcompany1.github.io/SITE-MENSAGEM-NO-JOGO-RACE-LOW-POLY/icone.png",
       "bannerUrl": "https://ztrcompany1.github.io/SITE-MENSAGEM-NO-JOGO-RACE-LOW-POLY/banner.png",
       "changelog": "Conta obrigatória e tempo real de jogo.",
-      "maintenance": false,
+      "maintenance": true,
       "forceUpdate": true
     }
   ],
